@@ -1,4 +1,5 @@
 import Accordion from "./Accordion";
+import { ReactDOM } from "react";
 const App = () => {
   const accordionData = [
     {
